@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭  I’m currently working on Python projects.<br>🤝I’m looking for help with AI and machine learning.<br>🌱  I’m currently learning advanced networking and Cloud.<br>💬  Ask me about network support, troubleshooting, and IT training.<br>⚡Fun fact: I love experimenting with new tech and building innovative solutions.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sibi_sanjai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibi-sanjai-062a15251) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sibisanjai741) 
 
